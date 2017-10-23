@@ -16,4 +16,4 @@
  - __使用技術__ Laravel(PHP MVC Framework), Javascript
 ## 6. 小説予想 AI <a href='https://github.com/daegunkor/NovelPredictionAI'>Link</a>
  - __紹介__ 既存の小説を分析し、ある単語を提示すると、単語に似合う小説の内容をお勧めするサービス
- - __使用技術__ Python(Tensorflow), Php, Javascript, Jquery
+ - __使用技術__ Python(Tensorflow), Php
